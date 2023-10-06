@@ -3,6 +3,8 @@
 My name is Luan, I'm student of science computation and passionate in game design.
 
 ### Projetos
+<hr style="border-width: 1px; margin: 0;">
+
 
 
 
