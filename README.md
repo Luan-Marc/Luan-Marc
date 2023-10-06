@@ -7,6 +7,8 @@ My name is Luan, I'm student of science computation and passionate in game desig
 <span style="display: block; height: 1px; background-color: #ccc;"></span>
 
 aslkçda
+<span style="display: block; height: 1px; background-color: #ccc;"></span><span style="display: block; height: 1px; background-color: #ccc;"></span>
+
 
 
 
