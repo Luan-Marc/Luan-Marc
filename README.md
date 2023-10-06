@@ -4,9 +4,9 @@ My name is Luan, I'm student of science computation and passionate in game desig
 
 
 ## Projetos
-- [Google](https://www.google.com)
-- [GitHub](https://www.github.com)
-- [Wikipedia](https://www.wikipedia.org)
+- [Ecommerce](https://www.google.com)
+- [Webscraper](https://www.github.com)
+- [Gameeducativo](https://www.wikipedia.org)
 
 
 
