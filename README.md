@@ -1,4 +1,4 @@
-## Ola
+## Olá
 
 Me chamo Luan, sou estudante de redes e desenvolvedor back-end e no meu tempo livre sou desenvolvedor de games.
 
@@ -10,10 +10,6 @@ Me chamo Luan, sou estudante de redes e desenvolvedor back-end e no meu tempo li
 
 ## Habilidades
 
-- Python
-- Django
-- Html, CSS, Javascript
-- C#
-- Unity Engine
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Marc&&hide_progress=true&theme=dark&bg_color=00000000)
+- Linguagens: Python, C, C#, SQL(MySQL), HTML/CSS, Javascript.
+- Frameworks: Django, Flask, Unity, Bootstrap.
+- Ferramentas: Linux, VSCode, Visual Studio, Neovim, Notion.
