@@ -16,6 +16,4 @@ Me chamo Luan, sou estudante de redes e desenvolvedor back-end e no meu tempo li
 - C#
 - Unity Engine
 
-## Stats
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Marc&&hide_progress=true&theme=dark&bg_color=00000000)
