@@ -12,4 +12,4 @@ Me chamo Luan, sou estudante de redes e desenvolvedor back-end e no meu tempo li
 
 - Linguagens: Python, C, C#, SQL(MySQL), HTML/CSS, Javascript.
 - Frameworks: Django, Flask, Unity, Bootstrap.
-- Ferramentas: Linux, VSCode, Visual Studio, Neovim, Notion.
+- Ferramentas: Git, Linux, VSCode, Visual Studio, Neovim, Notion.
