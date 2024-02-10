@@ -1,6 +1,6 @@
 ## Olá
 
-Me chamo Luan, sou estudante de redes, desenvolvedor back-end e desnvolvedor indie.
+Me chamo Luan, sou estudante de redes, desenvolvedor back-end e desenvolvedor indie.
 
 ## Projetos
 
